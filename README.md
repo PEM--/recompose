@@ -20,6 +20,8 @@ npm install recompose --save
 
 **📺 Watch Andrew's [talk on Recompose at React Europe](https://www.youtube.com/watch?v=zD_judE-bXk).**
 
+**📺 Free Egghead.io course's[Higher Order Components with Functional Patterns Using Recompose](https://egghead.io/courses/higher-order-components-with-functional-patterns-using-recompose).**
+
 ### Related modules
 
 [**recompose-relay**](src/packages/recompose-relay) — Recompose helpers for Relay
